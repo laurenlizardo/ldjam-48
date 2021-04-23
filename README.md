@@ -12,3 +12,6 @@ A 72-hour game jam!
 * Default ignored files and folders from the .gitignore file.
 * Underscored folders
 * All purchased assets (place inside the AssetStoreTools folder and add that folder to the .gitignore file)
+
+## Resources
+[Oculus Documentation for Unity Development](https://developer.oculus.com/documentation/unity/unity-overview/)
