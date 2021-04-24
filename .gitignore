@@ -58,5 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Ignore underscored directories
+# Underscored directories
 *_*
+
+# Rider cache directory
+.idea/
