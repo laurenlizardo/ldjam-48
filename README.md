@@ -8,10 +8,17 @@ A 72-hour game jam!
 4. Install git LFS.
 5. Set the remote repository.
 
-## Ignored Files
+## Ignored Files/Directories
 * Default ignored files and folders from the .gitignore file.
 * Underscored folders
 * All purchased assets (place inside the AssetStoreTools folder and add that folder to the .gitignore file)
+
+## Assets/Tools
+* Handtracking
+* ScriptableObject event system
+* Art assets
+* VFX
+* SFX
 
 ## Resources
 [Oculus Documentation for Unity Development](https://developer.oculus.com/documentation/unity/unity-overview/)
